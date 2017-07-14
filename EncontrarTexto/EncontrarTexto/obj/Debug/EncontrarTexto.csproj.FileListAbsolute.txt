@@ -1,0 +1,6 @@
+c:\users\vinicius\documents\visual studio 2017\Projects\EncontrarTexto\EncontrarTexto\bin\Debug\EncontrarTexto.exe.config
+c:\users\vinicius\documents\visual studio 2017\Projects\EncontrarTexto\EncontrarTexto\bin\Debug\EncontrarTexto.exe
+c:\users\vinicius\documents\visual studio 2017\Projects\EncontrarTexto\EncontrarTexto\bin\Debug\EncontrarTexto.pdb
+c:\users\vinicius\documents\visual studio 2017\Projects\EncontrarTexto\EncontrarTexto\obj\Debug\EncontrarTexto.csprojResolveAssemblyReference.cache
+c:\users\vinicius\documents\visual studio 2017\Projects\EncontrarTexto\EncontrarTexto\obj\Debug\EncontrarTexto.exe
+c:\users\vinicius\documents\visual studio 2017\Projects\EncontrarTexto\EncontrarTexto\obj\Debug\EncontrarTexto.pdb
